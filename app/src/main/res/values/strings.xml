@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">exam1</string>
+    <string name="sec">sec</string>
+    <string name="min">min</string>
+    <string name="heures">heures</string>
+    <string name="temps_restant_avant_que_l_appareil_ne_s_teigne">temps restant avant que l\'appareil ne s\'éteigne</string>
+    <string name="_10_10">10:10</string>
+    <string name="connexion">Connexion</string>
+    <string name="mot_de_passe">mot de passe</string>
+    <string name="utilisateur">utilisateur</string>
+    <string name="stoper_le_service">STOPER LE SERVICE</string>
+    <string name="valider_la_nouvelle_dur_e">VALIDER LA NOUVELLE DURÉE</string>
+    <string name="fail_auth">Mot de passe ou identifiante incorrecte</string>
+    <string name="valideAuth">authentifié(e)</string>
+    <string name="déconnexion">DÉCONNEXION</string>
+    <string name="redémarrer_le_service">redémarrer le service</string>
+    <string name="byeMessage">Au revoir</string>
+</resources>
